@@ -5,10 +5,10 @@ Oneira is a minimalist, high-performance AI image generator built with React and
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/img1.jfif" width="250" alt="Screenshot 1" />
-  <img src="screenshots/img2.jfif" width="250" alt="Screenshot 2" />
-  <img src="screenshots/img3.jfif" width="250" alt="Screenshot 3" />
-  <img src="screenshots/img4.jfif" width="250" alt="Screenshot 4" />
+  <img src="screenshots/img1.jfif" width="200" alt="Screenshot 1" />
+  <img src="screenshots/img2.jfif" width="200" alt="Screenshot 2" />
+  <img src="screenshots/img3.jfif" width="200" alt="Screenshot 3" />
+  <img src="screenshots/img4.jfif" width="200" alt="Screenshot 4" />
 </p>
 
 ## ✨ Features
