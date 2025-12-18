@@ -2,6 +2,14 @@
 
 Oneira is a minimalist, high-performance AI image generator built with React and Vite. It leverages the Google Gemini API (Imagen model) to transform text descriptions into stunning visual art within a distraction-free, hyper-clean interface.
 
+##
+ 📸 Screenshots
+
+![Screenshot 1](screenshots/img1.jfif)
+![Screenshot 2](screenshots/img2.jfif)
+![Screenshot 3](screenshots/img3.jfif)
+![Screenshot 4](screenshots/img4.jfif)
+
 ## ✨ Features
 
 - **Hyper-Minimalist UI**: A pure, black-and-white aesthetic designed to focus entirely on creativity.
